@@ -1,0 +1,3 @@
+ticket_id=d62f9ee108be16c0
+artifact_sha256=04f5661c05a3797ec388ae43fd966e7487904741348f2deaf6ead87d92aeec42
+artifact_size=29
